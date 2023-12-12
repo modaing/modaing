@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+✨ TECH STACK ✨
+
+
+❤️ ME ❤️
+🌱 I’m currently learning JAVA.
+📫 How to reach me: hongi_@naver.com
+
 <!--
 **modaing/modaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 - ### Hi there 👋
 
 - ✨ TECH STACK ✨
-- https://img.shields.io/badge/{java}-{#0058A3}?style={flat-square}&logo={java}&logoColor={white}
+- https://img.shields.io/badge/{java}-{#007396}?style={flat-square}&logo={java}&logoColor={white}
 
 - ❤️ ME ❤️
 - 🌱 I’m currently learning JAVA.

@@ -5,7 +5,6 @@
 
 <h3 align="center">❤️ ME ❤️
 <p align="center">
-🌱 I’m currently learning JAVA.
 
 <a href="mailto:hongi_@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hongi_@naver.com"/></a>
 </p>

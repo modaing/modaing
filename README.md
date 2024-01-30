@@ -11,5 +11,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
 
-
+<div align=center><h1> 📖STUDY LOG</h1></div>
+<p align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modaing&show_icons=true&theme=radical)

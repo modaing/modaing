@@ -61,3 +61,7 @@
         KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a> -->
 </div>
+
+![](https://raw.githubusercontent.com/modaing/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username=modaing/github-stats/master/generated/languages.svg#gh-light-mode-only)
+

@@ -1,5 +1,5 @@
+![image](https://github.com/modaing/modaing/assets/153487521/941c9b44-0883-4c28-bb6f-6347f250be22)
 
-![image](https://github.com/modaing/modaing/assets/153487521/1926ff0b-7faf-49b0-8ce8-4665ceab7e2a)
 
 ## 👩‍💻 Tech Stacks (Once I've used)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">

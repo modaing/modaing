@@ -56,6 +56,7 @@
     </a> -->
 </div>
 
+## 🪶 Dev Log
 <a href="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=gruvbox">
 		<img align="left" src="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=gruvbox"/>
 	</a>
@@ -63,7 +64,3 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=dark">
 		<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=dark"/>
 	</a>
- 
-![](https://raw.githubusercontent.com/modaing/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username=modaing/github-stats/master/generated/languages.svg#gh-light-mode-only)
-

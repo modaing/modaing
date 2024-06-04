@@ -5,9 +5,6 @@
 ## 👩‍💻 Tech stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
-	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=dark">
-		<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=dark"/>
-	</a>
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -20,9 +17,6 @@
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
-	<a href="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=gruvbox">
-		<img align="right" src="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=gruvbox"/>
-	</a>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
@@ -62,6 +56,14 @@
     </a> -->
 </div>
 
+<a href="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=gruvbox">
+		<img align="left" src="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=gruvbox"/>
+	</a>
+ 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=dark">
+		<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=dark"/>
+	</a>
+ 
 ![](https://raw.githubusercontent.com/modaing/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username=modaing/github-stats/master/generated/languages.svg#gh-light-mode-only)
 

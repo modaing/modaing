@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving)
 
-## 👩‍💻 Tech stacks
+## 👩‍💻 Tech Stacks (Once I've used)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -41,7 +41,7 @@
 			<img src="https://img.shields.io/badge/intellij idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
 		</div>
 
-## 📖 Study log
+## 📖 Study Log
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 ## 📫 Contact

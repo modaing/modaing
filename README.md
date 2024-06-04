@@ -1,6 +1,5 @@
 
-
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![image](https://github.com/modaing/modaing/assets/153487521/1926ff0b-7faf-49b0-8ce8-4665ceab7e2a)
 
 ## 👩‍💻 Tech Stacks (Once I've used)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">

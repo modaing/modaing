@@ -42,6 +42,8 @@
 
 ## 📖 Study Log
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/FastAPI-3670A0?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+
 
 ## 📫 Contact
 <div style="display:flex; flex-direction:row;">

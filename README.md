@@ -1,4 +1,4 @@
-![image](https://github.com/modaing/modaing/assets/153487521/941c9b44-0883-4c28-bb6f-6347f250be22)
+![backend](https://github.com/modaing/modaing/assets/153487521/c04271f1-58f2-49cd-8cf7-efee4ceff265)
 
 
 ## 👩‍💻 Tech Stacks (Once I've used)

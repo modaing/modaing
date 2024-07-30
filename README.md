@@ -57,10 +57,10 @@
     <img
       src="https://img.shields.io/badge/hongi_@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-<!-- 	<a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a> -->
+  <a href="https://open.kakao.com/o/sGFzzbsf">
+    <img 
+      src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+  </a>
 </div>
 
 ## 🪶 Dev Log

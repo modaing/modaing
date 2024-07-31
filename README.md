@@ -65,9 +65,9 @@
 
 ## 🪶 Dev Log
 <a href="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=gruvbox">
-		<img align="left" src="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=default"/>
-	</a>
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=default"/>
+</a>
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=dark">
-		<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=default"/>
-	</a>
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=default"/>
+</a>

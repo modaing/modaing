@@ -55,11 +55,11 @@
 <div style="display:flex; flex-direction:row;">
   <a href="hongi_@naver.com">
     <img
-      src="https://img.shields.io/badge/hongi_@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/hongi_@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://open.kakao.com/o/sijhDxHb">
-    <img 
-      src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    <img
+      src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk">
   </a>
 </div>
 

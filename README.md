@@ -58,6 +58,7 @@
     <img
       src="https://img.shields.io/badge/hongi_@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+	
   <a href="https://open.kakao.com/o/sijhDxHb">
     <img
       src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk">
@@ -65,12 +66,10 @@
 </div>
 
 
-
 ## 🪶 Dev Log
 <a href="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=gruvbox">
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=modaing&include_all_commits=true&show_icons=true&theme=default"/>
 </a>
- 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=dark">
 	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaing&langs_count=10&layout=compact&theme=default"/>
 </a>

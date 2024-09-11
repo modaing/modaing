@@ -1,6 +1,64 @@
-[![backend](https://github.com/modaing/modaing/assets/153487521/c04271f1-58f2-49cd-8cf7-efee4ceff265)](https://modaing.github.io/)
+<div class=pull-left>
+	<img src="https://github.com/user-attachments/assets/7f480670-3155-4840-b07f-06d9042c3335"  width="500" height="500"/>
+</div>
+<div class=pull-right>
+	Hi There!🫶🏻
+	I'm an AI & Full Stack Developer from South Korea.<br/>
+	I am passionate about leveraging various technologies and tools to solve user challenges and enhance user experiences.<br/>
+	My expertise spans from creating AI-powered applications to building scalable full-stack solutions, with a focus on delivering efficient and innovative results.<br/>
+	Through my work, I aim to bridge the gap between cutting-edge technologies and real-world user needs, always seeking to make a positive impact in the tech landscape.
+</div>
+<hr>
 
-## 👩‍💻 Tech Stacks (Once I've used)
+## 💻 My recent projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Introductiona</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+	  <tr>
+      <td><a href="https://github.com/orgs/LingoBell/repositories"><b>LingoBell</b></a></td>
+      <td><b>A platform for global language exchange with STT script, AI topic recommendation and quiz creation</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/JayLee-98/Ketchup_front-end?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/orgs/StockVibe/repositories"><b>StockVibe</b></a></td>
+      <td><b>A platform for market sentiment analysis and news article summarization</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/JayLee-98/Ketchup_front-end?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/modaing/BACK-LOGIN"><b>LOG:IN</b></a></td>
+      <td><b>A human resource management program</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/BACK-LOGIN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/BACK-LOGIN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/BACK-LOGIN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/JayLee-98/revelup?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/modaing/companimal-semi_project"><b>Companimal</b></a></td>
+      <td><b>A crowdfunding platform for pet supplies</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/companimal-semi_project ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/companimal-semi_project ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/companimal-semi_project ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/JayLee-98/revelup?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+## 👩🏻‍💻 Tech Stacks (Once I've used)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>

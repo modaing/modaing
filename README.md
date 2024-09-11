@@ -26,18 +26,18 @@
 	  <tr>
       <td><a href="https://github.com/orgs/LingoBell/repositories"><b>LingoBell</b></a></td>
       <td><b>A platform for global language exchange with STT script, AI topic recommendation and quiz creation</b></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/JayLee-98/Ketchup_front-end?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/LingoBell-BackEnd?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/orgs/StockVibe/repositories"><b>StockVibe</b></a></td>
       <td><b>A platform for market sentiment analysis and news article summarization</b></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/JayLee-98/Ketchup_front-end?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Stockvibe_Backend?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/modaing/BACK-LOGIN"><b>LOG:IN</b></a></td>
@@ -45,15 +45,15 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/BACK-LOGIN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/BACK-LOGIN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/BACK-LOGIN?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/JayLee-98/revelup?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/modaing/BACK-LOGIN?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/modaing/companimal-semi_project"><b>Companimal</b></a></td>
       <td><b>A crowdfunding platform for pet supplies</b></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/companimal-semi_project ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/companimal-semi_project ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/companimal-semi_project ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/JayLee-98/revelup?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/modaing/companimal-semi_project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/modaing/companimal-semi_project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/modaing/companimal-semi_project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/modaing/companimal-semi_project?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>

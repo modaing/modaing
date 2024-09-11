@@ -1,12 +1,12 @@
-<div class=pull-left>
+<div class=pull-left style="align-items: right;">
 	<img src="https://github.com/user-attachments/assets/7f480670-3155-4840-b07f-06d9042c3335"  width="400" height="400"/>
 </div>
 <div class=pull-right>
-	Hi There! 🫶🏻 
-	I'm an AI & Full Stack Developer from South Korea.<br/>
-	I am passionate about leveraging various technologies and tools to solve user challenges and enhance user experiences.<br/>
+	👋🏻 Hi There!<br/>
+	I'm an AI & Full Stack Developer from South Korea. 🇰🇷<br/>
+	I am passionate about leveraging various technologies and tools to solve user challenges and enhance user experiences. 🔥 <br/>
 	My expertise spans from creating AI-powered applications to building scalable full-stack solutions, with a focus on delivering efficient and innovative results.<br/>
-	Through my work, I aim to bridge the gap between cutting-edge technologies and real-world user needs, always seeking to make a positive impact in the tech landscape.
+	Through my work, I aim to bridge the gap between cutting-edge technologies and real-world user needs, always seeking to make a positive impact in the tech landscape. 🫶🏻
 </div>
 <hr>
 

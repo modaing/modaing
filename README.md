@@ -118,7 +118,7 @@
 <div style="display:flex; flex-direction:row;">
   <a href="hongi_@naver.com">
     <img
-      src="https://img.shields.io/badge/hongi_@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 	
   <a href="https://open.kakao.com/o/sijhDxHb">
